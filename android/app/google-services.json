@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107677662773",
+    "project_id": "plantie-456",
+    "storage_bucket": "plantie-456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107677662773:android:a6a435613cdffbfc29fb7c",
+        "android_client_info": {
+          "package_name": "com.example.pntd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107677662773-0m2n527vnp64m1qbbik44o112f95u3s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNaLOv_K1LYnVmXgilrWwXn1Aopa7c5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107677662773-0m2n527vnp64m1qbbik44o112f95u3s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

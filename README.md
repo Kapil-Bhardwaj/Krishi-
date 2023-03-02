@@ -1,6 +1,6 @@
 # Krishi
 
-The " KRISHI- Farmer’s Interface " project intends to reduce the suffering of Indian farmers by giving them a technique for quickly identifying crop diseases so they may treat their crops before they decay. The software has been developed using Python and Machine Learning tools.
+The " KRISHI- Farmer’s Interface " project intends to reduce the suffering of Indian farmers by giving them a technique for quickly identifying crop diseases so they may treat their crops before they decay, Sell their crops , Find Remedies and A online Mandi feature. The software has been developed using Flutter & Dart, Python and Machine Learning tools.
 
 ## PROBLEMSTATEMENT
 

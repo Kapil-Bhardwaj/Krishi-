@@ -17,11 +17,18 @@ A. Early disease prediction<br> B. Farmers can apply fertiliser and pesticides b
 ## MY ROLE
 • Application Developer <br>
 • ML Model assistance Integration to the Application. <br> 
+• Research Paper Writing
 • Pitcher
 
 ## TECHNOLOGY USED
 
-•Flutter •Dart •Tflite •Firebase • TensorFlow • Keras • VGG19 model • Python and its Libraries like (Pandas ,numpy etc.)
+•Flutter •Dart •Tflite •Firebase • Resnet-50 • TensorFlow • Keras • VGG19 model • Python and its Libraries like (Pandas, numpy etc.) 
+
+## Current status
+• The Project has been completed.
+• Ml Model used - Visonay-X9
+• Application for both IOS and Android devices was made successfully.
+• Research Paper will be Published soon, And Accepted by the IEEE Con
 
 ## FUTURE SCOPE
 
